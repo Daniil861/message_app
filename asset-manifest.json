@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/message_app/static/css/main.31d6cfe0.css",
+    "main.js": "/message_app/static/js/main.28bc4595.js",
+    "index.html": "/message_app/index.html",
+    "main.28bc4595.js.map": "/message_app/static/js/main.28bc4595.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.28bc4595.js"
+  ]
+}
